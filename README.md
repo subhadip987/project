@@ -64,4 +64,6 @@ Developed by: Subhadip Mandal
 🤖 AI-based climate trend prediction
 
 
+Update README for Milestone 1
+
 Milestone 1 submission created using a separate branch and pull request.
