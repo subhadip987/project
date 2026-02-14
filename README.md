@@ -62,3 +62,6 @@ Developed by: Subhadip Mandal
 📥 User-uploaded CSV support
 
 🤖 AI-based climate trend prediction
+
+
+Milestone 1 submission created using a separate branch and pull request.
